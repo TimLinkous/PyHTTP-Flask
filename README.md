@@ -43,7 +43,7 @@ httpd = HTTPServer(('localhost', 8000), SimpleHTTPRequestHandler)
 httpd.serve_forever()
 ```
 
-`Do a GIT triple: Add, Commit, Push` to capture your work.
+`Do a GIT triple: Add, Commit, Push` to capture your work.   
 
 ## Description
 Create a simple HTTP server using Python and Flask.
